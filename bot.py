@@ -1,1 +1,1 @@
-print("Hi, myself Nishant, co-founder of The-Manager")
+print("Hi, myself Nishant, cofounder of The-Manager.")
