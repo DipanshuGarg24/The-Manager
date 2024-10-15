@@ -1,1 +1,0 @@
-"Having command functions declarations" 
