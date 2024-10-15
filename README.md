@@ -1,1 +1,1 @@
-# The-Manager
+# The-ManagerThe Manager -- The Telegram Bot
